@@ -15,11 +15,11 @@
 
 * ⭐ DMs are open, come say Hi :))
 
-![Profile Views](https://komarev.com/ghpvc/?username=avr2002&label=PROFILE+VIEWS&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=amitvikramraj&label=PROFILE+VIEWS&color=blueviolet)
 
 <!---
-<a href="https://www.github.com/avr2002" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/avr2002?logo=github&style=for-the-badge&color=f97316&labelColor=000000" />
+<a href="https://www.github.com/amitvikramraj" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/amitvikramraj?logo=github&style=for-the-badge&color=f97316&labelColor=000000" />
 </a>
 --->
 
